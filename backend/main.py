@@ -16,6 +16,7 @@ app = FastAPI(title="Trishant Portfolio API", version="1.0.0")
 origins = [
     "http://localhost:5173",
     "http://localhost:4173",
+    "https://portfolio-swart-two-1fd6ldohtu.vercel.app",
     os.getenv("FRONTEND_URL", ""),
 ]
 
