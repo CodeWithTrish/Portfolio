@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://portfolio-api-trishant.onrender.com/api/:path*"
+      "destination": "https://portfolio-h4ch.onrender.com/api/:path*"
     }
   ]
 }
